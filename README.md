@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-「Python知否」源代码：https://github.com/wangzhe3224/Python-zhifou
+[Python知否」源代码](https://github.com/wangzhe3224/Python-zhifou)
 
 [>> Awesome Systematic Trading <<](https://github.com/wangzhe3224/awesome-systematic-trading)
 
