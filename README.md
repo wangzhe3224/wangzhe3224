@@ -8,6 +8,8 @@
 
 [Awesome Systematic Trading - 棒棒的系统化交易](https://github.com/wangzhe3224/awesome-systematic-trading)
 
+[Rust学习驿站](https://github.com/wangzhe3224/rust-learning)
+
 [重拾面向对象设计模式](https://github.com/wangzhe3224/Python-zhifou/tree/master/src/design_pattern)
 
 ：）
