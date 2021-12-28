@@ -9,4 +9,4 @@
 - [Python编程进阶 - (Python知否源代码)](https://github.com/wangzhe3224/Python-zhifou)
 - [重拾面向对象设计模式 - Python诠释](https://github.com/wangzhe3224/Python-zhifou/tree/master/src/design_pattern)
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangzhe3224&hide=Jupyter%20Notebook,C++,Fortran,HTML,JavaScript,Cpp,Stylus，Groff,groff,assembly,Stylus,makefile&langs_count=5)
+[>> 加入泛泛的Discord <<](https://discord.gg/8EWU9uFM5V)
