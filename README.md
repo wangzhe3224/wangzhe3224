@@ -13,6 +13,6 @@
 - [Rust学习驿站](https://github.com/wangzhe3224/rust-learning)
 - [Python编程进阶 - (Python知否源代码)](https://github.com/wangzhe3224/Python-zhifou)
 - [重拾面向对象设计模式 - Python诠释](https://github.com/wangzhe3224/Python-zhifou/tree/master/src/design_pattern)
-- ~~[我的书单](https://github.com/wangzhe3224/books)~~
+- [我的书单]([https://github.com/wangzhe3224/books](https://wangzhe3224.github.io/zhuan-ma/books/))
 ---
 [>> Discord <<](https://discord.gg/8EWU9uFM5V)
