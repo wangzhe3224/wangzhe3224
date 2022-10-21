@@ -9,10 +9,10 @@
 ---
 - :new: [转码路线图](https://github.com/wangzhe3224/zhuan-ma)
 - :fire: [Awesome Systematic Trading - 棒棒的系统化交易合集](https://github.com/wangzhe3224/awesome-systematic-trading)
+- :fire: [Python编程进阶 - (Python知否源代码)](https://github.com/wangzhe3224/Python-zhifou)
+- :fire: [重拾面向对象设计模式 - Python诠释](https://github.com/wangzhe3224/Python-zhifou/tree/master/src/design_pattern)
+- :construction: [我的书单](https://wangzhe3224.github.io/zhuan-ma/books/)
 - [量化交易知识集](https://github.com/wangzhe3224/systematic-trading-knowledge-collection)
 - [Rust学习驿站](https://github.com/wangzhe3224/rust-learning)
-- [Python编程进阶 - (Python知否源代码)](https://github.com/wangzhe3224/Python-zhifou)
-- [重拾面向对象设计模式 - Python诠释](https://github.com/wangzhe3224/Python-zhifou/tree/master/src/design_pattern)
-- [我的书单](https://wangzhe3224.github.io/zhuan-ma/books/)
 ---
 [>> Discord <<](https://discord.gg/8EWU9uFM5V)
