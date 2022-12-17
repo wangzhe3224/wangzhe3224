@@ -1,10 +1,10 @@
 ### Hi there 👋 我是泛程序员
 
 👨‍💻泛程序员（泛泛），热爱计算机技术，量化对冲基金Quant Dev  
-💻分享有温度的计算机知识、量化开发、投资技术
+💻分享有温度的计算机知识、量化开发、量化交易
 
 👨‍💻 FunCoder, a quantative developer in systematic hedge fund industry    
-💻 Sharing kownledge related to coding in general, quantitative dev, systematic investing
+💻 Sharing kownledge related to coding in general, quantitative dev, systematic trading
 
 ---
 - :new: [转码路线图 - 200 小时转码核心课程](https://github.com/wangzhe3224/zhuan-ma)
