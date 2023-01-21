@@ -1,4 +1,4 @@
-### Hi there 👋 我是泛程序员
+## Hi there 👋 我是泛程序员
 
 👨‍💻泛程序员（泛泛），热爱计算机技术，量化对冲基金Quant Dev  
 💻分享有温度的计算机知识、量化开发、量化交易
@@ -17,3 +17,13 @@
 - [Rust学习驿站](https://github.com/wangzhe3224/rust-learning)
 ---
 [>> Discord <<](https://discord.gg/8EWU9uFM5V)
+
+---
+
+## Random quotes
+
+<img alt="quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
+
+---
+
+<img src="https://gpvc.arturio.dev/wangzhe3224" alt="visitor count"/>
