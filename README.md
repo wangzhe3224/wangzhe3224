@@ -7,6 +7,7 @@
 💻 Sharing kownledge related to coding in general, quantitative dev, systematic trading
 
 ---
+- :new: [QuantBox](https://quant.funcoder.net/)
 - :new: [转码路线图 - 200 小时转码核心课程](https://github.com/wangzhe3224/zhuan-ma)
 - :fire: [Awesome Systematic Trading - 棒棒的系统化交易合集](https://github.com/wangzhe3224/awesome-systematic-trading)
 - :new: [Bitcoin Pro - 专注比特币教育](https://wangzhe3224.github.io/bitcoin-pro)
