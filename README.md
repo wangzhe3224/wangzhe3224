@@ -21,6 +21,24 @@
 [>> Discord <<](https://discord.gg/8EWU9uFM5V)
 
 ---
+## Buy me a coffee?
+
+## Buy me a coffee?
+
+<div id="image-table">
+    <table>
+	    <tr>
+            <td style="padding:10px">
+<img src="https://raw.githubusercontent.com/wangzhe3224/landing/main/content/en/zhifubao.jpg"  width="60%" height="30%">
+            </td>
+            <td style="padding:10px">
+<img src="https://raw.githubusercontent.com/wangzhe3224/landing/main/content/en/weixin.jpg"  width="95%" height="40%">
+            </td>
+        </tr>
+    </table>
+</div>
+
+---
 
 ## Random quotes
 
