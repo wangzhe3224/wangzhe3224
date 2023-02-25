@@ -18,7 +18,15 @@
 - [量化交易知识集](https://github.com/wangzhe3224/systematic-trading-knowledge-collection)
 - [Rust学习驿站](https://github.com/wangzhe3224/rust-learning)
 ---
-[>> Discord <<](https://discord.gg/8EWU9uFM5V)
+
+- [>> Discord <<](https://discord.gg/8EWU9uFM5V)
+- [>> Telgram <<](https://t.me/bitcoinpro21)
+
+---
+
+## Random quotes
+
+<img alt="quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
 
 ---
 ## Buy me a coffee?
@@ -30,17 +38,12 @@
 <img src="https://raw.githubusercontent.com/wangzhe3224/landing/main/content/en/zhifubao.jpg"  width="30%" height="15%">
             </td>
             <td style="padding:10px">
-<img src="https://raw.githubusercontent.com/wangzhe3224/landing/main/content/en/weixin.jpg"  width="45%" height="20%">
+<img src="https://raw.githubusercontent.com/wangzhe3224/landing/main/content/en/weixin.jpg"  width="50%" height="30%">
             </td>
         </tr>
     </table>
 </div>
 
----
-
-## Random quotes
-
-<img alt="quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
 
 ---
 
