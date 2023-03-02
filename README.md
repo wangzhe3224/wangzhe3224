@@ -21,7 +21,7 @@
 ---
 
 - [>> Discord <<](https://discord.gg/8EWU9uFM5V)
-- [>> Telgram <<](https://t.me/bitcoinpro21)
+- [>> Telgram (Bitcoin Pro) <<](https://t.me/bitcoinpro21)
 - [>> 微信群 <<](https://funcoder.net/wechat/)
 
 ---
