@@ -8,6 +8,7 @@
 
 ---
 - :fire: [一步一步教你写：事件驱动系统化交易框架（带视频）](https://github.com/wangzhe3224/simple)
+- :fire: [Quant 路线图](https://wangzhe3224.github.io/quant-roadmap/)
 - :new: [QuantBox - Your Quant Trading Toolbox](https://quant.funcoder.net/)
 - :new: [Python 速食 300 秒](https://github.com/wangzhe3224/python-recipes-300-second)
 - :new: [转码路线图 - 200 小时转码核心课程](https://github.com/wangzhe3224/zhuan-ma)
