@@ -10,8 +10,8 @@
 - Quant
 	- :fire: [一步一步教你写：事件驱动系统化交易框架（带视频）](https://github.com/wangzhe3224/simple)
 	- :fire: [Quant 路线图](https://wangzhe3224.github.io/quant-roadmap/)
-	- :new: [QuantBox - Your Quant Trading Toolbox](https://quant.funcoder.net/)
 	- :fire: [Awesome Systematic Trading - 棒棒的系统化交易合集](https://github.com/wangzhe3224/awesome-systematic-trading)
+	- :new: [QuantBox - Your Quant Trading Toolbox](https://quant.funcoder.net/)
 	- [量化交易知识集](https://github.com/wangzhe3224/systematic-trading-knowledge-collection)
 - General CS
 	- :new: [转码路线图 - 200 小时转码核心课程](https://github.com/wangzhe3224/zhuan-ma)
@@ -24,6 +24,10 @@
 	- [Rust学习驿站](https://github.com/wangzhe3224/rust-learning)
 - Bitcoin
 	- :new: [Bitcoin Pro - 专注比特币教育](https://wangzhe3224.github.io/bitcoin-pro)
+- Featured Repo:
+	- [pyca - A more general Python Cellular Automata with multi-dimensions and multi-cell type mix](https://github.com/wangzhe3224/pyca)
+	- [loman - a Python library designed to allow quantitative researchers to control complex live updating calculation processes](https://github.com/janushendersonassetallocation/loman)
+	- [CryptoFeed - Cryptocurrency Exchange Websocket Data Feed Handler](https://github.com/bmoscon/cryptofeed)
 ---
 
 - [>> Discord <<](https://discord.gg/8EWU9uFM5V)
