@@ -8,7 +8,6 @@
 
 ---
 - Quant
-	- :fire: [一步一步教你写：事件驱动系统化交易框架（带视频）](https://github.com/wangzhe3224/simple)
 	- :fire: [Quant 路线图](https://wangzhe3224.github.io/quant-roadmap/)
 	- :fire: [Awesome Systematic Trading - 棒棒的系统化交易合集](https://github.com/wangzhe3224/awesome-systematic-trading)
 	- :new: [QuantBox - Your Quant Trading Toolbox](https://quant.funcoder.net/)
