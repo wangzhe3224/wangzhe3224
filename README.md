@@ -25,7 +25,6 @@
 	- :new: [Bitcoin Pro - 专注比特币教育](https://wangzhe3224.github.io/bitcoin-pro)
 - Featured Repo:
 	- [pyca - A more general Python Cellular Automata with multi-dimensions and multi-cell type mix](https://github.com/wangzhe3224/pyca)
-	- [loman - a Python library designed to allow quantitative researchers to control complex live updating calculation processes](https://github.com/janushendersonassetallocation/loman)
 	- [CryptoFeed - Cryptocurrency Exchange Websocket Data Feed Handler](https://github.com/bmoscon/cryptofeed)
 ---
 
