@@ -35,3 +35,5 @@
 ## Random quotes
 
 <img alt="quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
+
+<img src="https://gpvc.arturio.dev/wangzhe3224" alt="visitor count"/>
