@@ -37,3 +37,5 @@
 <img alt="quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
 
 <img src="https://gpvc.arturio.dev/wangzhe3224" alt="visitor count"/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wangzhe3224&theme=burnt-neon&hide_border=true)](https://git.io/streak-stats)
