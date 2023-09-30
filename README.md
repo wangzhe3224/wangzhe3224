@@ -24,6 +24,7 @@
 - Featured Repo:
 	- [pyca - A more general Python Cellular Automata with multi-dimensions and multi-cell type mix](https://github.com/wangzhe3224/pyca)
 	- [CryptoFeed - Cryptocurrency Exchange Websocket Data Feed Handler](https://github.com/bmoscon/cryptofeed)
+ 	- [Proxy.py](https://github.com/abhinavsingh/proxy.py)
 ---
 
 - [>> Discord <<](https://discord.gg/8EWU9uFM5V)
